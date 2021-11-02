@@ -4,7 +4,6 @@ Technologies used: React Native
 
 App can be downloaded through:  https://expo.io/artifacts/df4cba00-45b3-45fb-947c-5bbb2f35db7d
 
-![alt text](https://github.com/Ishcheen/Netflix-Clone-app/blob/main/assets/screen1.jpg)
+<img src="https://github.com/Ishcheen/Netflix-Clone-app/blob/main/assets/screen1.jpg" width="400">
 
-![alt text](https://github.com/Ishcheen/Netflix-Clone-app/blob/main/assets/screen2.jpg)
-
+<img src="https://github.com/Ishcheen/Netflix-Clone-app/blob/main/assets/screen2.jpg" width="400">
